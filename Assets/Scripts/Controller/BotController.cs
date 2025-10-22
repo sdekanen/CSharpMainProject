@@ -7,7 +7,7 @@ using Model.Config;
 using UnityEngine;
 using Utilities;
 //Salam
-//How are you?
+//Who u are?
 //i'm fine
 namespace Controller
 {
@@ -74,4 +74,5 @@ namespace Controller
         }
     }
 }
+
 
